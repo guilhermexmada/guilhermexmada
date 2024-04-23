@@ -3,7 +3,9 @@
 - :mortar_board: Desenvolvimento de Sistemas ETEC Registro 
 - :mortar_board: 3º EM 
 - ✔️ HTML & CSS básicos
--  ▪️▫️▪️ PHP e JS 
+- ▶️ PHP & JS
+- ❤️ Web
+- 🔍 Cibersegurança
 
 <hr>
 <a href="https://github.com/guilhermexmada/guilhermexmada">
