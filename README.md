@@ -1,7 +1,9 @@
 ## Hello, everybody! :wink:
 
-- :mortar_board: Estudante de Desenvolvimento de Sistemas ETEC Registro 
-- ✔️ Apaixonado por Web design
+- :mortar_board: Desenvolvimento de Sistemas ETEC Registro 
+- :mortar_board: 3º EM 
+- ✔️ HTML & CSS básicos
+-  ▪️▫️▪️ PHP e JS 
 
 <hr>
 <a href="https://github.com/guilhermexmada/guilhermexmada">
