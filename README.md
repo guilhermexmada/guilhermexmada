@@ -1,4 +1,4 @@
-## Hello, everybody! :wink:
+## Hello! :wink:
 
 - :mortar_board: Desenvolvimento de Sistemas ETEC Registro 
 - :mortar_board: 3º EM 
