@@ -1,7 +1,7 @@
 ## Hello, everybody! :wink:
 
 - :mortar_board: Estudante de Desenvolvimento de Sistemas ETEC Registro 
-- :purple_heart: Apaixonado por Web design
+- ✔️ Apaixonado por Web design
 
 <hr>
 <a href="https://github.com/guilhermexmada/guilhermexmada">
