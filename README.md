@@ -1,13 +1,11 @@
 ## Hello! :wink:
 
-- :mortar_board: Técnico em Desenvolvimento de Sistemas pela ETEC Registro 
-- ✔️ HTML
-- ✔️ CSS
+- :mortar_board: Técnico em Desenvolvimento de Sistemas 
+- ✔️ HTML, CSS & JS
 - ✔️ PHP & Laravel
 - ✔️ React-native
 - ✔️ C# & Windows Form Application
-- ▶️ JS
-- 🔍 Cibersecurity
+- 🔍 Cibersecurity & Data Science
 
 <hr>
 <a href="https://github.com/guilhermexmada/guilhermexmada">
