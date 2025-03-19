@@ -5,7 +5,6 @@
 - ✔️ PHP & Laravel
 - ✔️ React-native
 - ✔️ C# & Windows Form Application
-- 🔍 Cibersecurity & Data Science
 
 <hr>
 <a href="https://github.com/guilhermexmada/guilhermexmada">
