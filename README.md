@@ -1,6 +1,7 @@
 ## Hello! :wink:
 
-- :mortar_board: Técnico em Desenvolvimento de Sistemas 
+- :mortar_board: Técnico em Desenvolvimento de Sistemas (ETEC)
+- :mortar_board: Graduando em Desenvolvimento de Sistemas Multiplataforma (FATEC)
 - ✔️ HTML, CSS & JS
 - ✔️ PHP & Laravel
 - ✔️ React-native
