@@ -5,7 +5,7 @@
 - ✔️ HTML, CSS & JS
 - ✔️ PHP & Laravel
 - ✔️ React-native
-- ✔️ C# & Windows Form Application
+- ✔️ C#
 
 <hr>
 <a href="https://github.com/guilhermexmada/guilhermexmada">
