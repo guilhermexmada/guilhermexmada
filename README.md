@@ -5,11 +5,13 @@
 - 🌱 Na jornada para se tornar Fullstack!
 
 ## Competências
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,cs,mysql,git,notion,latex)
+<p align="center">
+  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,cs,mysql,git,notion,latex)
+</p>
 
 <hr>
 
-<table>
+<table border="0">
   <tr>
     <td width="50%">
       <a href="https://github.com/guilhermexmada/guilhermexmada">
