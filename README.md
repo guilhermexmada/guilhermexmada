@@ -16,7 +16,15 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermexmada&show_icons=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
 </a>
 
-| Coluna 1 | Coluna 2 |
-|----------|----------|
-| Texto da primeira coluna | Texto da segunda coluna |
-| Mais conteúdo aqui | E mais conteúdo aqui |
+<table>
+  <tr>
+    <td width="50%">
+      <p>Texto da primeira coluna</p>
+      <p>Mais conteúdo aqui</p>
+    </td>
+    <td width="50%">
+      <p>Texto da segunda coluna</p>
+      <p>Outro conteúdo aqui</p>
+    </td>
+  </tr>
+</table>
