@@ -1,8 +1,9 @@
 ## Hello! 😉
-- 🖥️ Técnico de Informática [(CONSAUDE)](https://www.consaude.org.br/)
-- 🎓 Técnico em Desenvolvimento de Sistemas (ETEC)
-- 🎓 Cursando Desenvolvimento de Sistemas Multiplataforma (FATEC)
+- 🖥️ Técnico de Informática - [CONSAUDE 2025](https://www.consaude.org.br/)
+- 🎓 Técnico em Desenvolvimento de Sistemas - [ETEC 2024](https://etecregistro.cps.sp.gov.br/)
+- 🎓 Cursando Desenvolvimento de Sistemas Multiplataforma - [FATEC 2027](https://fatecregistro.cps.sp.gov.br/)
 - 🌱 Na jornada para se tornar Fullstack!
+- 👀 De olho no mundo da cibersegurança...
 
 ## Competências
 <p align="center">
