@@ -6,7 +6,11 @@
 
 ## Competências
 <p align="center">
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,cs,mysql,git,notion,latex)
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,cs,mysql,git,latex,notion"
+    />
+  </a>
 </p>
 
 <hr>
