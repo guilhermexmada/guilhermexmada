@@ -1,14 +1,13 @@
-## Hello! :wink:
+## Hello! 😉
+- 🖥️ Técnico de Informática [(CONSAUDE)](https://www.consaude.org.br/)
+- 🎓 Técnico em Desenvolvimento de Sistemas (ETEC)
+- 🎓 Cursando Desenvolvimento de Sistemas Multiplataforma (FATEC)
+- 🌱 Na jornada para se tornar Fullstack!
 
-- :mortar_board: Técnico em Desenvolvimento de Sistemas (ETEC)
-- :mortar_board: Graduando em Desenvolvimento de Sistemas Multiplataforma (FATEC)
-- ✔️ HTML, CSS & JS
-- ✔️ PHP & Laravel
-- ✔️ React-native
-- ✔️ C#
+## Competências
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,cs,mysql,git,notion,latex)
 
 <hr>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermexmada&show_icons=true&theme=dark)
 
 <table>
   <tr>
