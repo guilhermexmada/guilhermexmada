@@ -8,7 +8,7 @@
 - ✔️ C#
 
 <hr>
-![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=guilhermexmada&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilhermexmada&show_icons=true&theme=dark)
 
 <table>
   <tr>
