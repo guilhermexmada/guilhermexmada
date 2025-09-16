@@ -15,3 +15,8 @@
 <a href="https://github.com/guilhermexmada/guilhermexmada">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermexmada&show_icons=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
 </a>
+
+| Coluna 1 | Coluna 2 |
+|----------|----------|
+| Texto da primeira coluna | Texto da segunda coluna |
+| Mais conteúdo aqui | E mais conteúdo aqui |
