@@ -17,10 +17,10 @@
 ## Certificados
 <p align="center">
   <a href="https://www.credly.com/badges/7154a210-0011-4ebb-8193-269c4db7148f/public_url">
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
   </a>
   <a href="https://www.credly.com/badges/7154a210-0011-4ebb-8193-269c4db7148f/public_url">
-  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
+  <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
   </a>
 </p>
 
