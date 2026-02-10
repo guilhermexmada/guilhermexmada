@@ -1,4 +1,4 @@
-## Hello! 😉
+<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/0ff5c020-1b2b-43e1-9cb1-50fde7db8c66" />## Hello! 😉
 - 🖥️ Técnico de Informática - [CONSAUDE 2025](https://www.consaude.org.br/)
 - 🎓 Técnico em Desenvolvimento de Sistemas - [ETEC 2024](https://etecregistro.cps.sp.gov.br/)
 - 🎓 Cursando Desenvolvimento de Sistemas Multiplataforma - [FATEC 2027](https://fatecregistro.cps.sp.gov.br/)
@@ -9,9 +9,14 @@
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,cs,mysql,git,latex,figma,canva,notion"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,mysql,git,latex"
     />
   </a>
+</p>
+
+## Certificados
+<p align="center">
+  <img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
 </p>
 
 <hr>
