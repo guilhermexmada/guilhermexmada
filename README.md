@@ -16,10 +16,14 @@
 
 ## Certificados
 <p align="center">
+  <a href="https://www.credly.com/badges/7154a210-0011-4ebb-8193-269c4db7148f/public_url">
   <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
+  </a>
+  <a href="https://www.credly.com/badges/7154a210-0011-4ebb-8193-269c4db7148f/public_url">
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
+  </a>
 </p>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="7154a210-0011-4ebb-8193-269c4db7148f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <hr>
 
