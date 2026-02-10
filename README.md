@@ -1,4 +1,4 @@
-<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/0ff5c020-1b2b-43e1-9cb1-50fde7db8c66" />## Hello! 😉
+## Hello! 😉
 - 🖥️ Técnico de Informática - [CONSAUDE 2025](https://www.consaude.org.br/)
 - 🎓 Técnico em Desenvolvimento de Sistemas - [ETEC 2024](https://etecregistro.cps.sp.gov.br/)
 - 🎓 Cursando Desenvolvimento de Sistemas Multiplataforma - [FATEC 2027](https://fatecregistro.cps.sp.gov.br/)
@@ -16,7 +16,7 @@
 
 ## Certificados
 <p align="center">
-  <img width="170" height="170" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
+  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/ca3ad88c-9b60-4929-84bd-78bd215684a6" />
 </p>
 
 <hr>
