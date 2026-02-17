@@ -30,20 +30,11 @@
   </a>
 </p>
 
-
 <hr>
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/guilhermexmada/guilhermexmada">
+<a href="https://github.com/guilhermexmada/guilhermexmada">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermexmada&layout=compact&langs_count=7&theme=dracula"/>
 </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/guilhermexmada/guilhermexmada">
+<hr>
+<a href="https://github.com/guilhermexmada/guilhermexmada">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermexmada&show_icons=true&line_height=27&theme=dracula" alt="GitHub Stats"/>
 </a>
-    </td>
-  </tr>
-</table>
