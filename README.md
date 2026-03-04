@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou o Guilherme Shimada Pereira
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer+em+formação;Apaixonado+por+tecnologia+e+inovação;Node.js+%7C+React+%7C+Banco+de+Dados;Sempre+aprendendo+algo+novo+🚀" />
-</p>
+https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt
 
 ---
 
