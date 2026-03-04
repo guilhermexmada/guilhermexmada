@@ -14,9 +14,6 @@
 * 🎓 Técnico em Desenvolvimento de Sistemas - [ETEC 2024](https://etecregistro.cps.sp.gov.br/)
 * 🎓 Cursando Desenvolvimento de Sistemas Multiplataforma - [FATEC 2027](https://fatecregistro.cps.sp.gov.br/)
 * 🎯 Objetivo profissional: **Desenvolvedor Fullstack**
-* 📍 Brasil
-* 📫 Email: **[guilhermeshimadapereira@gmail.com](mailto:guilhermeshimadapereira@gmail.com)**
-* 💼 LinkedIn: [Clique aqui](https://www.linkedin.com/in/guilherme-shimada-pereira-2a1717286)
 
 ---
 
@@ -32,10 +29,9 @@
 
 ### 💡 Atualmente estudando
 
-* ⚛️ React
+* 🧠 Redes neurais
 * 🐍 Python
-* ☁️ Conceitos de Cloud & DevOps
-* 🐳 Docker
+* 🐳 Docker e DevOps
 
 ---
 
@@ -56,39 +52,21 @@
 
 ---
 
-## 🏗️ Projetos em Destaque
-
-| Projeto                               | Descrição                                | Tecnologias             |
-| ------------------------------------- | ---------------------------------------- | ----------------------- |
-| 🔎 PONSKAN               | App de monitoramento para tangerinas com visão computacional | Node.js, Express, React, MongoDB, PyTorch |
-| 📹 Non Recursive Sorts            | Visualização didática de bubble, insertion e selection sorts     | HTML, CSS, JS          |
-| 🏗️ Sql Search Bar | Landing page de busca com fulltext search          | Node.js, Express, MySQL |
-
----
-
-## 🗂️ Organização de Workflow
-
-```bash
-main        → Produção
-develop     → Integração
-feature/*   → Novas funcionalidades
-hotfix/*    → Correções emergenciais
-```
-
-💡 Sempre praticando:
-
-* Git Flow
-* Commits semânticos
-* Pull Requests organizados
-* Code Review
-
----
-
 ## 📈 Atividade Recente
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermexmada&theme=tokyo-night"/>
 </p>
+
+---
+
+## 🏗️ Projetos em Destaque
+
+| Projeto                               | Descrição                                | Tecnologias             |
+| ------------------------------------- | ---------------------------------------- | ----------------------- |
+| 🍊 PONSKAN               | App de monitoramento para tangerinas com visão computacional | Node.js, Express, React, MongoDB, PyTorch |
+| 📚 Non Recursive Sorts            | Visualização didática de algoritmos de ordenação não recursivos     | HTML, CSS, JS          |
+| 🔍 Sql Search Bar | Landing page de busca com fulltext search          | Node.js, Express, MySQL |
 
 ---
 
